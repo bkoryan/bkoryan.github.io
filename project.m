@@ -1,6 +1,6 @@
 %{
     ECE 4553 - Introduction to Pattern Recognition Term Project Code
-    Student : Burak KORYAN - Chenhao DING
+    Student : Burak KORYAN
     Date : December 4 2017
     Instructor : Dr.Erik Scheme
     Description : The source code below is for classification of
